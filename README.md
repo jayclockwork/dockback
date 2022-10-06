@@ -36,7 +36,9 @@ These tests can be run with the `visual_diff.sh` script in the bin directory.
 1. Make sure docker is running.
 2. Run the test script. By default, this script will use the test configuration described by backstop.json.
 
-    ./bin/visual_diff.sh
+```bash
+./bin/visual_diff.sh
+```
 
 3. The test results will open in a browser tab when finished.
 
