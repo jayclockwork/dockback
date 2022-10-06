@@ -44,4 +44,4 @@ These tests can be run with the `visual_diff.sh` script in the bin directory.
 
 ## Bugs
 
-- Sometimes the script will not finish if there are too many pages to compare, or too many viewports defined
+- Sometimes the script will not finish if there are too many pages to compare, or too many viewports defined.
